@@ -1,1 +1,3 @@
-console.log('main');
+module.exports = () => {
+    console.log('main');
+};
