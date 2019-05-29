@@ -1,6 +1,6 @@
 {
   "name": "@bondarchukv/helloworld",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "description": "Hello World",
   "main": "index.js",
   "repository": "https://github.com/b0nd4rchukv/helloworld.git",
