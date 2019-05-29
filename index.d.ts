@@ -1,1 +1,1 @@
-export default function(afterwords?: string);
+export declare function hello (afterwords?: string);
